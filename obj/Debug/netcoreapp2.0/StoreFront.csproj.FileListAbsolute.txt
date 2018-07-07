@@ -1,0 +1,11 @@
+C:\Users\adamg\source\repos\StoreFront\StoreFront\bin\Debug\netcoreapp2.0\StoreFront.deps.json
+C:\Users\adamg\source\repos\StoreFront\StoreFront\bin\Debug\netcoreapp2.0\StoreFront.runtimeconfig.json
+C:\Users\adamg\source\repos\StoreFront\StoreFront\bin\Debug\netcoreapp2.0\StoreFront.runtimeconfig.dev.json
+C:\Users\adamg\source\repos\StoreFront\StoreFront\bin\Debug\netcoreapp2.0\StoreFront.dll
+C:\Users\adamg\source\repos\StoreFront\StoreFront\bin\Debug\netcoreapp2.0\StoreFront.pdb
+C:\Users\adamg\source\repos\StoreFront\StoreFront\obj\Debug\netcoreapp2.0\StoreFront.csprojResolveAssemblyReference.cache
+C:\Users\adamg\source\repos\StoreFront\StoreFront\obj\Debug\netcoreapp2.0\StoreFront.csproj.CoreCompileInputs.cache
+C:\Users\adamg\source\repos\StoreFront\StoreFront\obj\Debug\netcoreapp2.0\StoreFront.AssemblyInfoInputs.cache
+C:\Users\adamg\source\repos\StoreFront\StoreFront\obj\Debug\netcoreapp2.0\StoreFront.AssemblyInfo.cs
+C:\Users\adamg\source\repos\StoreFront\StoreFront\obj\Debug\netcoreapp2.0\StoreFront.dll
+C:\Users\adamg\source\repos\StoreFront\StoreFront\obj\Debug\netcoreapp2.0\StoreFront.pdb
